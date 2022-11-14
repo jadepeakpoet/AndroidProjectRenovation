@@ -30,3 +30,16 @@ https://github.com/jadepeakpoet/vlayout
 2.升级插件和依赖库  
 3.把库发布到jitpack  
 4.修复LinearLayoutHelper设置margin和padding后，页面从下到上滚动导致的margin和padding显示出错的问题  
+
+3. walle  
+Android Signature V2 Scheme签名下的新一代渠道包打包神器  
+原工程：  
+https://github.com/Meituan-Dianping/walle
+翻新工程：  
+https://github.com/Petterpx/walle  
+翻新项：
+1.已适配到了 Agp7.0.4 ,理论上 7.x 都可以。
+2.迁移到androidx
+3.升级依赖的第三方库
+4.在jitpack发布本库 
+
