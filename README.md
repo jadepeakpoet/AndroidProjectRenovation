@@ -38,8 +38,8 @@ https://github.com/Meituan-Dianping/walle
 翻新工程：  
 https://github.com/Petterpx/walle  
 翻新项：
-1.已适配到了 Agp7.0.4 ,理论上 7.x 都可以。
-2.迁移到androidx
-3.升级依赖的第三方库
-4.在jitpack发布本库 
+1.已适配到了 Agp7.0.4 ,理论上 7.x 都可以  
+2.迁移到androidx  
+3.升级依赖的第三方库  
+4.在jitpack发布本库  
 
