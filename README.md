@@ -34,7 +34,7 @@ https://github.com/jadepeakpoet/vlayout
 3. walle  
 Android Signature V2 Scheme签名下的新一代渠道包打包神器  
 原工程：  
-https://github.com/Meituan-Dianping/walle
+https://github.com/Meituan-Dianping/walle  
 翻新工程：  
 https://github.com/Petterpx/walle  
 翻新项：
