@@ -1,5 +1,5 @@
 # AndroidProjectRenovation
-Android Open Project Renovation/Android开源项目翻新/Android 开源项目传承
+Android Open Project Renovation/Android开源项目翻新/Android开源项目传承
 
 # 简介：本项目创建的主要目的是收集一些使用者众多，但是官方已经停止维护/长期不维护，由本人或其他开发者进行翻新的Android开源项目，主要解决项目在新环境下不可用的问题，翻新主要涉及以下几个方面  
 1. 编译工具翻新
