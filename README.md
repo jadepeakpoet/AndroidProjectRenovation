@@ -8,25 +8,25 @@ Android Open Project Renovation/Android开源项目翻新/Android 开源项目�
 
 # Android开源项目
 1. Arouter  
- 💪 A framework for assisting in the renovation of Android componentization (帮助 Android App 进行组件化改造的路由框架)
+ 💪 A framework for assisting in the renovation of Android componentization (帮助 Android App 进行组件化改造的路由框架)  
 原工程：  
-https://github.com/alibaba/ARouter
+https://github.com/alibaba/ARouter  
 翻新工程：  
-https://github.com/jadepeakpoet/ARouter
-翻新项：
-1.迁移到androidx，对于本库可关闭jetifier(android.enableJetifier=false)或不做配置
-2.适配到AGP7.3.0，解决其中的兼容性bug
-3.升级依赖的第三方库
-4.在jitpack发布本库
+https://github.com/jadepeakpoet/ARouter  
+翻新项：  
+1.迁移到androidx，对于本库可关闭jetifier(android.enableJetifier=false)或不做配置  
+2.适配到AGP7.3.0，解决其中的兼容性bug  
+3.升级依赖的第三方库  
+4.在jitpack发布本库  
 
 2. vlayout  
-VirtualLayout是一个针对RecyclerView的LayoutManager扩展, 主要提供一整套布局方案和布局间的组件复用的问题。
+VirtualLayout是一个针对RecyclerView的LayoutManager扩展, 主要提供一整套布局方案和布局间的组件复用的问题。  
 原工程：  
-https://github.com/alibaba/vlayout
+https://github.com/alibaba/vlayout  
 翻新工程：  
-https://github.com/jadepeakpoet/vlayout
-翻新项：
-1.迁移到androidx
-2.升级插件和依赖库
-3.把库发布到jitpack
-4.修复LinearLayoutHelper设置margin和padding后，页面从下到上滚动导致的margin和padding显示出错的问题
+https://github.com/jadepeakpoet/vlayout  
+翻新项：  
+1.迁移到androidx  
+2.升级插件和依赖库  
+3.把库发布到jitpack  
+4.修复LinearLayoutHelper设置margin和padding后，页面从下到上滚动导致的margin和padding显示出错的问题  
