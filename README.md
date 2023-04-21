@@ -15,7 +15,7 @@ https://github.com/alibaba/ARouter
 https://github.com/jadepeakpoet/ARouter  
 翻新项：  
 1.迁移到androidx，对于本库可关闭jetifier(android.enableJetifier=false)或不做配置  
-2.适配到AGP7.3.0，解决其中的兼容性bug  
+2.适配到AGP8.0.0，解决其中的兼容性bug  
 3.升级依赖的第三方库  
 4.在jitpack发布本库  
 
